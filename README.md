@@ -37,6 +37,14 @@ Ogranicza mnie ilość styków, które można poprowadzić obrotowo.
 Może więc najpierw tylko ultradźwięki, albo tylko podczerwień.    
 Być może będzie potrzebny dodatkowy sterownik, w układzie smd.    
   
-Ramy czasowe:  
-jak najszybciej, mam nadzieję 1-2 tygodnie na te 4 etapy  
+Ramy czasowe:   
+jak najszybciej, mam nadzieję 1-2 tygodnie na te 4 etapy   
+ 
+Opis zawartości repozytorium:    
+proba_1 - materiały własne z jakich będę korzystał   
+          biblioteka_.bat - musiałem podzielic pdf, bo na githubie jest max 25mb na plik   
+          biblioteka.zip - nauka sterowania silniczkami   
+          test_sterownika_atmega.zip - kod do sterowania silniczkami w próbie 1, początkowo użyję w 2   
+proba_2 - na razie tylko zdjęcia  
+
 
