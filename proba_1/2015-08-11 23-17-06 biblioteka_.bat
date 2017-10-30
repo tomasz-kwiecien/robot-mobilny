@@ -1,0 +1,1 @@
+COPY /B  "2015-08-11 23-17-06 biblioteka_.001"+"2015-08-11 23-17-06 biblioteka_.002" "2015-08-11 23-17-06 biblioteka.pdf"
